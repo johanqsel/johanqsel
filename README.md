@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johanqsel
 - 👀 I’m interested in learning and developing 
-- 🌱 I’m currently learning HTML CSS JS (only vanilla for the moment)
-- 💞️ I’m looking to collaborate on bigger projects with trained developers
+- 🌱 I’m currently learning PYTHON and also HTML CSS JS
+- 💞️ I'm just having fun
 - 📫 How to reach me: by mail johanqsel@gmail.com
 
 <!---
